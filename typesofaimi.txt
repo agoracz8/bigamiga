@@ -1,0 +1,20 @@
+Types of AI and Ml
+
+AI:
+
+Types of AI Based on Capabilities:
+	-Narron AI(weakest)
+	-General AI(stronger)
+	-Superintelligence(Super)
+
+Types of AI Based on Functionalities:
+	-Reactive Machines
+	-Limited Memory in AI
+	-Theory of Mind
+	-Self-Awereness AI
+
+Ml:
+
+	-Supervised Machine Learning
+	-Unsupervised Machine Learning
+	-Reinforcment Learning
