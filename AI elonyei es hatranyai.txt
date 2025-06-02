@@ -1,0 +1,21 @@
+Előnyei:
+
+Az AI számos területen felhasználható, beleértve az automatizálást, adatbányászatot, egészségügyi rendszereket, ügyfélszolgálatot, 
+biztonsági rendszereket, műszaki fejlesztéseket, sőt még a szórakoztatást is.
+
+Az AI segítségével automatizálhatjuk például a rendelések feldolgozását, könnyebben és gyorsabban mérhetjük az ügyfél elégedettségi szintet, 
+egészségügyi szakembereknek segíthet a betegek kezelésének tervezésében és a gyógyulási folyamat nyomon követésében, 
+sőt olykor még a betegségeket is képes gyorsabban diagnosztizálni, mint a humán orvosok. Oktatási intézmények számára lehetővé teszi, 
+hogy fejleszthessék a tanulási folyamatot és ezáltal növeljék a diákok eredményességét. De az AI ugyanilyen hasznos lehet akár művészeknek, tervezőknek és íróknak is, 
+mivel teret ad új, kreatív megközelítések felfedezésére.
+
+Hátrányai:
+
+
+Az AI – bármilyen csábítóan hangzik is első hallásra – használata számos biztonsági és etikai kockázattal jár. 
+Vegyük például, hogy hajlamosak lehetnek a kibertámadásokra és adathalászatokra. Ez veszélyeztetheti az adatok biztonságát, 
+ezáltal az ügyfelek magánéletét, ami mondjuk egy jogi irodánál nagyon súlyos következményeket vonhat maga után. És ha már a jogi ügyeknél járunk, 
+az AI használata felelősségi kérdéseket is felvet főként akkor, ha fontos kérdésekről van szó, például a büntetőjogi ítélkezés során. Ha rosszul tervezik, 
+rosszul tanítják ezeket a rendszereket, a bemeneti adatok torzulnak, ezáltal a döntések is hibásak, diszkriminatívak lehetek. 
+Az AI használatával értékrendi és erkölcsi kérdések is megjelennek, mivel veszélybe kerülnek az emberi munkahelyek. Ugyanis, ha a folyamatokat automatizáljuk, 
+a dolgozók munkája kvázi feleslegessé, okafogyottá válik és emberek milliói veszíthetik el a megélhetésüket.

@@ -1,0 +1,10 @@
+A mesterséges intelligencia (MI) kutatása 1956-ban kezdődött az amerikai Dartmouth College egyik nyári workshopján. Úgy gondolták, 
+tíz tudós két hónap munkával le tudja fektetni egy olyan masina alapjait, amely képes nyelvhasználatra, elvont fogalmak kezelésére, 
+olyan problémák megoldására, amelyek addig kizárólag embereknek sikerültek, illetve önmaga tökéletesítésére.
+
+A mesterséges intelligencia kutatása során fordulópontot jelentett annak felismerése, hogy az intelligencia nem egyenlő a tudással, 
+elvégre nagyon sok dolgot az ember nem szabályalapon, hanem ösztönösen végez és gépekbe amúgy is lehetetlen lenne minden létező tudást és szabályt beprogramozni. 
+Az intelligencia sokkal inkább a tanulás és a tanulásból az általánosítás képessége.
+
+A hatékony tanuláshoz azonban megfelelő mennyiségű adat szükséges. 2012 környékén jött el az a pont, 
+amikor a gépi tanulás és a big data kombinációjából létrejött az úgynevezett deep learning, vagyis mélytanulás.
