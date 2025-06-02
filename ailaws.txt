@@ -1,0 +1,6 @@
+Szabályok az AI-hoz:
+	-Adatvédelem ésmegfigyelés: Szabályozni kéne, hogy mitlyen adatokat figyelnek, miket használhatnak fel
+	-Diszkrimináció és méltányosság: Minden emberrel egyenlően kéne bánnia, a vicceit vissza fogni, ezek a mostani állapotban sértők lehetnek egyesek számára
+	-Felelőség és elszámlálhatóság: Ha hibázik az AI,, akkor utána kell nézni, hogy miért hibázott, törvényekkel tisztában kell lennie
+	-Biztonság és védelem: Tiltott információkat nem megosztani vele mint pl: Drogok előállítása, járművek ellopásá stb.
+	-Etikai szempontok: Korlátozni a szolgáltatásokat mert egy képpel egy egész videót lehet csinálni egy ember arcával, így bármit rálehet fogni bárkire
