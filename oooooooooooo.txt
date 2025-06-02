@@ -1,0 +1,23 @@
+Az AI (mesterséges intelligencia) eredeti célja az volt, hogy olyan rendszereket és gépeket hozzanak létre, amelyek képesek emberi szintű kognitív képességek – például tanulás,
+ érvelés, problémamegoldás, nyelvmegértés és észlelés – végrehajtására.
+
+A mesterséges intelligencia kutatásának kezdeti célja az volt, hogy megértsék,
+ hogyan lehet gépeket "intelligenssé" tenni, és hogy ezek a gépek képesek legyenek komplex döntéseket hozni,
+ adaptálódni új helyzetekhez, és akár olyan feladatokat végezni, amelyeket korábban csak emberek tudtak. Az AI az alábbi fő célokkal indult:
+
+1. Automatizálás és Hatékonyság Növelése: A mesterséges intelligencia alapvető célja kezdetben az volt,
+ hogy egyszerűbbé és hatékonyabbá tegye az emberi munka egyes aspektusait. A gépek képesek voltak gyorsan, pontosan és hibátlanul végrehajtani a szabályalapú feladatokat, amelyek monotonná váltak.
+
+2. Emberi Képességek Szimulálása: Az egyik legfontosabb cél az volt, hogy gépeket építsenek, amelyek képesek utánozni vagy szimulálni az emberi intelligenciát. 
+Az AI kutatók szeretnék megérteni, hogyan működik az emberi gondolkodás, és hogyan lehet ezt mesterséges rendszerekbe átültetni.
+
+3. Önálló Tanulás és Fejlődés: Az AI kutatásának egyik kulcsfontosságú célja a gépek képesítése arra, hogy saját tapasztalataik és adataik alapján tanuljanak,
+ és így javítsák a teljesítményüket a különböző feladatokban. Az ilyen rendszerek – mint a gépi tanulás (machine learning) és a mélytanulás (deep learning) – azóta is az AI fejlődésének központjában állnak.
+
+4. Problémamegoldás: Az AI kezdeti kutatásai között szerepelt az is, hogy gépekkel olyan problémákat oldjanak meg,
+ amelyek emberi kreativitást vagy komplex gondolkodást igényelnek. Ez magában foglalta a logikai és matematikai problémák megoldását, valamint a valós világban előforduló bonyolult helyzetek kezelését.
+
+Az AI fejlődése során a célok természetesen szélesedtek és komplexebbé váltak.
+ Ma már az AI célja nem csupán az emberi szintű intelligencia reprodukálása, hanem a mesterséges rendszerek olyan új képességek kifejlesztése is,
+ amelyek az emberi gondolkodás számára nem ismertek vagy elérhetetlenek. Az AI a tudományos kutatásokban, az orvostudományban, a gazdaságban,
+ a művészetekben és a szórakoztatóiparban is egyre nagyobb szerepet kap.
