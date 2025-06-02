@@ -1,0 +1,16 @@
+Hogyan mibe kellene fejleszteni?(Mik a hibái?)
+ 
+-Átláthatóság és magyarázhatóság
+ 
+- Adatbias és diszkrimináció
+ 
+-Általános intelligencia (AGI) és alkalmazhatóság
+ 
+-Biztonság és robusztusság
+ 
+-Erőforrásigény és fenntarthatóság
+ 
+- Interakció és empátia
+- Skálázhatóság és hatékonyság
+ 
+- Etikai és jogi kérdések
